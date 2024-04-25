@@ -7,16 +7,5 @@ function App() {
       <HomePage />
     </div>
   );
-
-    
-          
-            
-    
-
-          
-          Expand Down
-    
-    
-  
 }
 export default App;
